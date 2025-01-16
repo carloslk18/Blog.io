@@ -28,7 +28,7 @@ class Program{
         Console.Clear();
         Console.WriteLine("Welcome to Blog");
         Console.WriteLine("---------------");
-        Console.WriteLine("Let's to work");
+        Console.WriteLine("Let's do it");
         Console.WriteLine();
         Console.WriteLine("1 - User Management");
         Console.WriteLine("2 - Role Management");
